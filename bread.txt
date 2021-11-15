@@ -1,3 +1,5 @@
 rye
+deli
+baguette
 garlic bread
 white
